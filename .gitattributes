@@ -1,2 +1,23 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Auto detect text files and perform LF normalization
+* text=auto
+* text=auto
+<!doctype html>
+<html>
+<head>
+<title>Potato</title>
+</head>
+<h1>Potato</h1>
+<h2>Potato</h2>
+<h3>Potato</h3>
+<h4>Potato</h4>
+<h5>Potato</h5>
+<h6>Potato</h6>
+<ul>
+<li>Tomato</li>
+<li>Salt</li>
+<li>Basil</li>
+<li>Jalapeno Peppers</li>
+</ul>
+</html>
